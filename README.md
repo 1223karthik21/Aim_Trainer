@@ -1,4 +1,6 @@
 # Aim_Trainer Game
+# pip install pygame
+
 Let's Play
 ![Screenshot (56)](https://github.com/1223karthik21/Aim_Trainer/assets/104613056/a6b0f6f4-6087-45e0-8f9a-524f64a5172d)
 ![Screenshot (57)](https://github.com/1223karthik21/Aim_Trainer/assets/104613056/9916f134-5353-41a8-a5f9-f7554a27ad1a)
